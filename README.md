@@ -10,7 +10,7 @@
 SocialApp is a online social application based on React, Redux, Node.js, Express, and Firebase.\
 This is the sever-side repository.\
 Access the application from [Here](https://socialapp-2adfc.web.app/).\
-Access the client-side repository from [Here](https://github.com/wfy0425/socialapp-client).\
+Access the client-side repository from [Here](https://github.com/wfy0425/socialapp-client).
 
 
 ## Table of Contents
